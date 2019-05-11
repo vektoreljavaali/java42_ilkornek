@@ -6,6 +6,8 @@ public class Runner {
 		
 		System.out.println("İLK GİTHUB PROJEM");
 
+		
+		System.out.println("Ekleme");
 	}
 
 }
